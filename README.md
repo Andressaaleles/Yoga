@@ -3,7 +3,7 @@
 
 
 
-<img src="../assets/projeto.jpeg" alt="logo yoga">
+<img src="./assets/projeto.jpeg" alt="logo yoga">
 
 > Resultado do projeto Yoga.
 
@@ -22,8 +22,8 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 <table>
   <tr>
     <td align="center">
-      <a href="../assets/andressa.jpeg">
-        <img src="" width="100px;" alt="Foto da Andressa"/><br>
+      <a href="">
+        <img src="./assets/andressa.jpeg" width="100px;" alt="Foto da Andressa"/><br>
         <sub>
           <b>Andressa Leles</b>
         </sub>
